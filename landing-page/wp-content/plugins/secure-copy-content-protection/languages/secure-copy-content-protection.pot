@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Popup box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-17 14:58+0400\n"
+"PO-Revision-Date: 2018-07-13 11:50+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2;_x\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-secure-copy-content-protection-actions.php:14
+#: ../admin/class-secure-copy-content-protection-actions.php:50
+#: ../admin/class-secure-copy-content-protection-actions.php:54
+#: ../public/class-secure-copy-content-protection-public.php:116
+msgid "You cannot copy content of this page"
+msgstr ""
+
+#: ../admin/class-secure-copy-content-protection-admin.php:136
+msgid "Settings"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:27
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:34
+msgid "General"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:28
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:86
+msgid "Block IPs"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:29
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:143
+msgid "Styles"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:39
+msgid "Enable copy protection in all post types"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:48
+msgid "Except this"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:64
+msgid "Notification text"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:80
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:137
+msgid "This feature available only in "
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:81
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:138
+msgid "PRO version!!!"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:91
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:232
+msgid "Add IP"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:148
+msgid "Tooltip background color"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:157
+msgid "Tooltip border color"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:166
+msgid "Tooltip border width"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:175
+msgid "Tooltip border radius"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:184
+msgid "Tooltip border style"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:188
+msgid "None"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:189
+msgid "Solid"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:190
+msgid "Double"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:191
+msgid "Doted"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:192
+msgid "Dashed"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:201
+msgid "Save changes"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:208
+msgid "Blacklist modal"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:216
+msgid "Add IP parts"
+msgstr ""
+
+#: ../admin/partials/secure-copy-content-protection-admin-display.php:231
+msgid "Close"
+msgstr ""

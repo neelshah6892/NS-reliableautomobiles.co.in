@@ -1,0 +1,55 @@
+#ays_tooltip {
+    display: none;
+    position: absolute;
+    z-index: 999999999;
+    width: auto;
+    padding: 3px;
+    box-sizing: border-box;
+    word-break: keep-all;
+    -webkit-hyphens: none;
+    white-space: nowrap;
+}
+
+#ays_tooltip.center_center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#ays_tooltip.left_top {
+    position: fixed;
+    left: 1rem;
+    top: 1rem;
+    bottom: auto;
+    right: auto;
+}
+
+#ays_tooltip.left_bottom {
+    position: fixed;
+    left: 1rem;
+    top: auto;
+    bottom: 1rem;
+    right: auto;
+}
+
+#ays_tooltip.right_top {
+    position: fixed;
+    left: auto;
+    top: 1rem;
+    bottom: auto;
+    right: 1rem;
+}
+
+#ays_tooltip.right_bottom {
+    position: fixed;
+    left: auto;
+    top: auto;
+    bottom: 1rem;
+    right: 1rem;
+}
+
+#ays_tooltip p {
+    margin: 0;
+    padding: 0;
+}

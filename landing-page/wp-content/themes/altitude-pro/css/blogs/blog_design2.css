@@ -1,0 +1,50 @@
+
+/*-------------blog-----------------------------*/
+.news-item:last-child { margin-bottom: 0;}
+.page-template-simple-blog-listing main.content, .single main.content{ width:72%; float:left; margin-bottom: 1.875em;} 
+.news-item{ margin-bottom: 1.875em;  float:left;width:100%;background:#F8F8F8;}  
+.news-item .col-md-4 img{ display:block; width:100%;}   
+.news-item .col-md-8 h2, .single.col-md-8 h2{font-size:1.875em; color:#c1d72e; margin-bottom:0.938em;}  
+.news-item .col-md-4{ width:35%; float:left;}
+.news-item .col-md-8{ width:65%; float:left; padding:1.750em;}
+.page-template-simple-blog-listing .content .news-item:first-child{  background:none; }
+.page-template-simple-blog-listing .content .news-item:first-child .col-md-4{ width:100%;}    
+.page-template-simple-blog-listing .content .news-item:first-child .col-md-8{ width:100%; padding:1.750em; background:#f8f8f8; text-align:center;}   
+.page-template-simple-blog-listing .content .news-item:first-child .col-md-4 img{ max-height:400px;}
+.news-item img { display: block;}    
+.news-item .entry-meta {border-bottom: 1px dashed #ababab; border-top: 1px dashed #ababab;}
+.cms-recent-post .image-thumbnail {  float: left; margin-right: 0.938em;width: 28%;}
+.cms-recent-post .image-main {  float: left;width:65%;}
+.cms-recent-post .image-main h4 {font-size: 1.063em; line-height: 1.2;}
+.cms-recent-post h4 {font-weight: normal;}
+.single-post-blog .blog-title { font-size: 1.625em; line-height: 1.2;  margin-bottom: 0.577em;}
+.blog-link .button {  display: table; line-height: 1;padding: 10px 20px;}
+.news-item .blog-link {  margin-top: 0.938em;}
+.page-template-simple-blog-listing .content .news-item:first-child .col-md-8 .button {  margin: auto;}
+.blog-header .blog-detail {  border-bottom: 1px dashed #cecece;  border-top: 1px dashed #cecece;  margin-bottom: 1em;  padding: 0.5em 0;}
+.blog-detail .detail-date {  background: rgba(0, 0, 0, 0) url("../../images/calendar.png") no-repeat scroll left center / 1.250em auto;  display: table;  padding-left: 2em;}
+.page-template-simple-blog-listing .news-item:first-child .detail-date { margin: auto;}
+
+.single .date_post{ background: rgba(0, 0, 0, 0) url("../../images/calendar.png") no-repeat scroll left center / 20px auto;  border-bottom: 1px dashed #cecece;  border-top: 1px dashed #cecece;
+    color: #000000; line-height: 1.2; margin-bottom: 1em;  padding: 0.5em 0.5em 0.5em 2em;}
+.cms-recent-post .image-main h4 a{color: #656565;}
+.blog-content { font-size: 1em;}	
+.loading-block {  float: left; margin: 2em auto auto;  width: 100%;}
+.loading-block .load_more_blogs {  display: table;  margin: auto;}
+.load_more_blogs{    background-color: #22a1c4;  border: 2px solid #22a1c4;  color: #ffffff;  cursor: pointer;  font-size: 1em;  padding: 8px 20px;    text-transform: capitalize;
+    white-space: normal;   width: auto;}
+        
+/*------------ Blog sidebar----------------*/
+
+.page-template-simple-blog-listing  aside.widget-area, .single   aside.widget-area  {float:right;width:25%; background:#f8f8f8 none repeat scroll 0 0;}  
+.single aside.widget-area .widget-title, aside.widget-area .widget-title{  background: #333333  none repeat scroll 0 0; padding:0.938em; text-align: center;margin-bottom: 0;position: relative;color: #ffffff; font-size: 1.625em;}
+.entry-thumbnail{float: left; margin-right: 4%; width: 28%;}   
+.entry-thumbnail img{ display:block;}
+.entry-main{float: left; width: 68%;} 
+.widget-recent-item{ border-bottom: 1px dashed #ababab; margin-bottom:0.938em; padding-bottom: 0.938em;} 
+.widget-recent-item:last-child{ border:none; margin-bottom:0; padding-bottom:0;}
+.cms-recent-post{ display: block;padding: 1.875em;}
+.pagination span, .pagination a {background: #474c52 none repeat scroll 0 0;  border-radius: 2px; color: #ffffff; margin-right: 0.750em;  padding: 0.875em;}
+.pagination .current, .pagination a:hover {  background: #22a1c4  none repeat scroll 0 0;}
+.loader-svg { display: table;  margin: auto;  padding-top: 2em;}
+ 

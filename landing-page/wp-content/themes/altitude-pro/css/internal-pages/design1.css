@@ -1,0 +1,80 @@
+.width-70 {  width: 70%;}
+.abt-bg-col {  background: #f5f5f5 none repeat scroll 0 0;padding:2.188em!important;}
+.img-block img {  display: block;}
+
+/*gutter space out*/
+.gutter-col-spc-out {  margin-left: 0 !important;  margin-right: 0 !important;}
+.gutter-col-spc-out .wpb_column > .vc_column-inner{padding-left:0!important;padding-right:0!important;}
+.vc_col-sm-5.wpb_column{width: 41.6667%;}
+
+/*sidebar*/
+.sidebar-content .quick-sidebar-form {background: #00adef none repeat scroll 0 0;color: #ffffff; padding: 1.875em;float: left; width: 100%;}
+.sidebar  .widget-heading-title {  font-weight: 600;text-transform: capitalize;}  
+.sidebar-content .quick-sidebar-form input, .sidebar-content .quick-sidebar-form select, .sidebar-content .quick-sidebar-form textarea{  background-color: rgba(0, 0, 0, 0);color: #ffffff;  border: 2px solid #ffffff;
+  box-shadow: none !important; line-height: 1.2;} 
+ .quick-sidebar-form  *::-moz-placeholder {  color: #efefef; opacity: 1; }
+.quick-sidebar-form  *::-webkit-input-placeholder {  color: #efefef;} 
+.sidebar-content .quick-sidebar-form textarea{ height: 100px;}
+.quick-sidebar-form .wpcf7-recaptcha {  transform: scale(0.92) translate(-14px, -2px); -webkit-transform: scale(0.92) translate(-14px, -2px); }
+.quick-sidebar-form input[type="submit"] {  background: #ffffff none repeat scroll 0 0;  border: medium none;  color: #00adef;}
+.quick-sidebar-form .submit_cont {  margin-top: 1em; }
+.quick-sidebar-link li a { display: block;}
+.widget .quick-sidebar-link li {   margin: 0 0 3px;  padding: 0;}
+.quick-sidebar-link li a {    text-transform: capitalize;background: #f1f1f1 none repeat scroll 0 0; font-weight: 600;color: #333333; display: block;  padding: 0.938em;  position: relative;  border-left: 4px solid #d2d2d2;
+}
+
+/*sidebar contact*/
+ .quick-sidebar-contact{ background: #00adef none repeat scroll 0 0;  float: left; padding:1.25em;  width: 100%;}
+.quick-sidebar-link li a:hover {  background: #00bff3 none repeat scroll 0 0;  border-color: #00bff3;  color: #ffffff;}
+.quick-sidebar-contact ul li { border-bottom: 1px solid rgba(255, 255, 255, 0.3);font-weight: 600;}
+.quick-sidebar-contact ul li:last-of-type { border: medium none; padding-bottom: 0;}
+.quick-sidebar-contact li span.title { text-transform: capitalize;}
+.content-faq .vc_toggle_title > h4{color: #000000; font-size: 1.125em;  font-weight: normal;} 
+.content-faq .vc_toggle {  border: 1px solid #d4d4d4;  padding: 0.938em;  margin-bottom: 1.25em;}
+.content-faq .vc_toggle_content, .content-faq .vc_toggle_content p:last-child {  margin-bottom: 0;}
+.vc_col-sm-7.content-faq { padding-right: 0.8em; }
+.list-iten-icn li {background: rgba(0, 0, 0, 0) url("../../images/listing-arrow.png") no-repeat scroll left top 4px; margin-left: 0 !important;  padding-left: 1.8em !important;}
+
+@media only screen and (min-width:767px)
+{
+.flex-row { align-items: stretch;  display: flex; margin-bottom: 2.188em;}	
+.flex-row .flex-align-center { align-items: center;  display: flex; }
+}
+
+@media only screen and (max-width:767px){
+.m-btm-35{margin-bottom: 2.188em;}
+}
+/*-----About us------*/
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+.gutter-col-spc-out.flex-row {display: block;}
+.gutter-col-spc-out.flex-row .vc_col-sm-6{width: 100%;}
+.gutter-col-spc-out.flex-row .vc_col-sm-6 img{margin: auto;}
+}
+/*-----About us End --*/
+
+
+/*-----About us-1 --*/
+	@media only screen and (min-width: 1024px) and (max-width: 1200px){
+		/*quick form*/
+		.quick-sidebar-form .wpcf7-recaptcha {transform: scale(0.73) translate(-42px, -2px);-webkit-transform: scale(0.73) translate(-42px, -2px);}
+		.sidebar .widget {margin-bottom: 20px;}	
+		.content {width: 67%;}
+	}
+	@media only screen and (min-width: 768px) and (max-width: 1023px){
+	.sidebar-content .sidebar {float: left;padding-left: inherit;}
+	.quick-sidebar-form .wpcf7-recaptcha {transform: scale(0.92) translate(-26px, -2px);-webkit-transform: scale(0.92) translate(-26px, -2px);}
+	}
+	@media only screen and (max-width: 767px){
+		.abt-faq-img {position: inherit;top: auto;	margin: auto;}
+		.abt-faq-img img {margin: auto;}
+		.sidebar-content .sidebar {float: left;padding-left: inherit;}
+		.vc_col-sm-5.wpb_column {width: 100%;}
+		.sidebar .widget {margin-bottom: 20px;}	
+	}
+	@media only screen and (max-width: 486px){
+		/*quick form*/
+		.quick-sidebar-form .wpcf7-recaptcha {transform: scale(0.73) translate(-42px, -2px);-webkit-transform: scale(0.73) translate(-42px, -2px);}
+	}
+/*-----About us-1  END--*/
+
+
